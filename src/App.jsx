@@ -61,7 +61,7 @@ export default function App() {
                 LinkedIn
               </a>
                <a
-                  href="/cv-stanley-castillo.pdf"
+                  href="/cv-stanley-castillo1.pdf"
                   download
                   className="border border-zinc-700 hover:border-orange-500 transition px-6 py-3 rounded-xl">
                   Descargar CV
